@@ -9,6 +9,6 @@ This repository serves as a technical documentation of my engineering approach t
 
 ## ✅ Currently Solved Problems
 - **1. Two Sum** (Easy) | O(n) Time | O(n) Space
-
+- **2. Add Two Numbers** (Medium) | O(max(m,n)) Time | O(max(m,n)) Space
 ---
 *Powered by Java 25 and a commitment to engineering excellence.*
